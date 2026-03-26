@@ -4,7 +4,7 @@
 API sederhana menggunakan Node.js dan Express.js tanpa database.
 Data disimpan dalam array (data dummy).
 
-Server berjalan di:
+Run Server:
 http://localhost:3000
 
 ## Endpoint
@@ -14,7 +14,7 @@ GET /
 Response:
 API Mahasiswa berjalan
 
-### 2. GET Semua Mahasiswa
+### 2. GET data Mahasiswa
 GET /students
 
 ### 3. GET Mahasiswa by ID
@@ -28,7 +28,7 @@ Body JSON:
   "jurusan": ""
 }
 
-### 5. PUT Update Mahasiswa
+### 5. PUT Update data Mahasiswa
 PUT /students/:id
 
 ### 6. DELETE Mahasiswa
