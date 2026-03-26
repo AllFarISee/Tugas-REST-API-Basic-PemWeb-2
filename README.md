@@ -4,7 +4,7 @@
 API sederhana menggunakan Node.js dan Express.js tanpa database.
 Data disimpan dalam array (data dummy).
 
-Run Server:
+Running Server:
 http://localhost:3000
 
 ## Endpoint
